@@ -108,7 +108,7 @@ class _MyAppState extends State<MyApp> {
                             color: Colors.blueGrey[900],
                             size: 100,
                           ),
-                        )
+                        ),
                       ],
                     ),
                   ],
